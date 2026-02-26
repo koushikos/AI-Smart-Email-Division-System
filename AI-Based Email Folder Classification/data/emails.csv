@@ -1,0 +1,100 @@
+Email_Text,Category
+"Your meeting with the team is scheduled for tomorrow at 2 PM. Please prepare your quarterly report.",Important
+"Please review the attached contract and provide feedback by end of day.",Important
+"Urgent: Your password expires in 24 hours. Click here to reset it.",Important
+"Your order #12345 has been shipped and will arrive in 2-3 business days.",Important
+"Reminder: Interview candidate John Doe is scheduled for 10 AM tomorrow.",Important
+"Project deadline extended to next Friday. Please update your task list.",Important
+"Your subscription will auto-renew tomorrow. Manage your settings here.",Important
+"Meeting minutes from yesterday's strategy session are attached.",Important
+"Please approve the budget proposal for Q4 2024.",Important
+"Congratulations! You have been promoted to Senior Manager.",Important
+"Limited time offer: 50% off all items this weekend only!",Promotions
+"Buy one get one free on all electronics this Black Friday!",Promotions
+"Exclusive deal for our VIP customers: 30% off your next purchase.",Promotions
+"Flash sale! 24 hours only - Save up to 70% on clearance items.",Promotions
+"Subscribe now and get 20% off your first order plus free shipping.",Promotions
+"New collection just arrived - Shop the latest trends!",Promotions
+"Special birthday discount: Use code BIRTHDAY20 for 20% off.",Promotions
+"Don't miss our summer sale - Up to 60% off designer brands!",Promotions
+"Last chance! Sale ends tonight at midnight.",Promotions
+"Free gift with purchase when you spend over $100.",Promotions
+"You have been tagged in a photo by Sarah Johnson.",Social
+"John Smith commented on your recent post about machine learning.",Social
+"Join us for the holiday party this Saturday! RSVP now.",Social
+"Your cousin Mary sent you a friend request.",Social
+"Congratulations on your work anniversary! Let's celebrate.",Social
+"You're invited to Emma's birthday party next week!",Social
+"Check out these photos from last night's team dinner.",Social
+"LinkedIn: New connection request from David Chen in AI industry.",Social
+"Facebook: Someone mentioned you in a comment.",Social
+"Twitter: Your tweet about Python programming is trending!",Social
+"Free money! Click here to claim your $1,000,000 prize!",Spam
+"Congratulations! You've been selected for a free iPhone giveaway!",Spam
+"Your email has won $5 million in the international lottery!",Spam
+"Make $10,000 per week working from home! No experience needed!",Spam
+"Click here to verify your account and avoid suspension!",Spam
+"You have been pre-approved for a $50,000 loan! Apply now!",Spam
+"Lowest mortgage rates ever! Refinance today and save thousands!",Spam
+"Your computer is infected! Download our free virus scanner now!",Spam
+"Hot stock tip! This company will triple in value this week!",Spam
+"Lose 20 pounds in 2 weeks with this miracle diet pill!",Spam
+"The weather forecast for tomorrow is partly cloudy with a high of 72 degrees.",Others
+"Please find the meeting notes from our weekly team sync.",Others
+"The server maintenance is scheduled for Sunday at 3 AM.",Others
+"Updated company policies are available on the intranet.",Others
+"The cafeteria menu for this week is now available.",Others
+"Your feedback helps us improve. Take our short survey.",Others
+"The office will be closed next Monday for the holiday.",Others
+"Library books due next week. Please return on time.",Others
+"Parking permit renewals are now being accepted for next month.",Others
+"The company shuttle bus schedule has been updated.",Others
+"Urgent action required: Please complete your annual compliance training.",Important
+"Your performance review is scheduled for next week. Prepare your self-assessment.",Important
+"Critical security update: Please patch your system immediately.",Important
+"Final reminder: Expense reports are due by Friday.",Important
+"Action item: Review and approve the hiring proposal for 3 candidates.",Important
+"Your annual leave request has been approved by management.",Important
+"Quarterly financial reports are ready for executive review.",Important
+"New client onboarding kickoff meeting is set for Monday.",Important
+"Please update your emergency contact information in HR system.",Important
+"Tax documents are now available for download in the portal.",Important
+"Get 70% off luxury watches - while supplies last!",Promotions
+"Free trial for premium membership - cancel anytime!",Promotions
+"Shop the Cyber Monday deals before they're gone!",Promotions
+"Exclusive online-only discount code: SAVE25NOW",Promotions
+"Double rewards points this month only!",Promotions
+"Free shipping on all orders over $50 - limited time!",Promotions
+"Flash deal: 80% off designer handbags today only!",Promotions
+"New customer exclusive: 50% off first month subscription!",Promotions
+"Unlock secret deals with premium membership - join now!",Promotions
+"Biggest sale of the year - up to 80% off everything!",Promotions
+"You appeared in 5 searches this week on social media.",Social
+"Your friend Mark invited you to join a group about AI.",Social
+"React to Sarah's message: Looking forward to the conference!",Social
+"New event: Tech meetup happening next Thursday evening.",Social
+"Your photo received 50 new likes and 10 comments!",Social
+"John invited you to connect on professional network.",Social
+"You're trending in your network with 1000+ profile views!",Social
+"Dave mentioned you in a post about recent project success.",Social
+"Follow up with your team about the project deadline.",Social
+"WARNING: Your account has been compromised! Verify now!",Spam
+"You have won a free vacation! Claim your prize immediately!",Spam
+"Unclaimed inheritance worth millions - contact us now!",Spam
+"Cheap medications without prescription - discreet shipping!",Spam
+"Meet singles in your area! Click to see who likes you!",Spam
+"Your email will be deactivated unless you verify now!",Spam
+"Incredible investment opportunity - guaranteed returns!",Spam
+"Lose weight fast with this all-natural supplement!",Spam
+"Nigerian prince needs help transferring funds - assistance needed!",Spam
+"Work from home and earn $500 daily - no scams!",Spam
+"The project timeline has been updated in the shared document.",Others
+"Please sign the updated employee handbook acknowledgment.",Others
+"Office supplies order form is available in the lobby.",Others
+"The building fire drill is scheduled for Friday at 10 AM.",Others
+"New parking rules effective next month - read the memo.",Others
+"Your suggestion box submission has been received.",Others
+"The holiday gift exchange will be held on December 20th.",Others
+"Updated bus routes for employees are now posted.",Others
+"Please complete the customer satisfaction survey.",Others
+"HR office hours changed to Tuesdays and Thursdays.",Others
